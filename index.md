@@ -3,3 +3,5 @@ Hi H1
 
 ## H2 Example
 It is definetly H2.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
