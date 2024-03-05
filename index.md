@@ -5,3 +5,9 @@ Hi H1
 It is definetly H2.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` py
+for i in range(3):
+   print('hello world')
+```
