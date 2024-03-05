@@ -11,3 +11,7 @@ It is definetly H2.
 for i in range(3):
    print('hello world')
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
